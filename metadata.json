@@ -1,0 +1,6 @@
+{
+  "name": "HEY BRO – 3D Animated Fashion Website",
+  "description": "Interactive 3D animated luxury men's fashion experience with video background, spatial 3D showcase, 360 viewer, and seamless shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
